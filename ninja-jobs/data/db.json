@@ -1,0 +1,19 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "title": "Web Developer",
+            "details": "We are looking for a web developer with 3 years of experience in HTML, CSS, and JavaScript."
+        },
+        {
+            "id": 2,
+            "title": "Frontend Developer",
+            "details": "We are looking for a frontend developer with 3 years of experience in HTML, CSS, and JavaScript."
+        },
+        {
+            "id": 3,
+            "title": "Backend Developer",
+            "details": "We are looking for a backend developer with 3 years of experience in HTML, CSS, and JavaScript."
+        }
+    ]
+}
