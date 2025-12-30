@@ -1,22 +1,22 @@
 {
-    "projects": [
-        {
-            "id": 1,
-            "title": "Project 1",
-            "details": "Details of project 1",
-            "completed": false
-        },
-        {
-            "id": 2,
-            "title": "Project 2",
-            "details": "Details of project 2",
-            "completed": false
-        },
-        {
-            "id": 3,
-            "title": "Project 3",
-            "details": "Details of project 3",
-            "completed": false
-        }
-    ]
+  "projects": [
+    {
+      "id": "1",
+      "title": "Project 1",
+      "details": "Details of project 1",
+      "completed": true
+    },
+    {
+      "id": "2",
+      "title": "Project 2",
+      "details": "Details of project 2",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Project 3",
+      "details": "Details of project 3",
+      "completed": false
+    }
+  ]
 }
