@@ -8,8 +8,8 @@
     },
     {
       "id": "2",
-      "title": "Project 2",
-      "details": "Details of project 2",
+      "title": "Project II",
+      "details": "Details of project II",
       "completed": false
     },
     {
@@ -17,6 +17,12 @@
       "title": "Project 3",
       "details": "Details of project 3",
       "completed": false
+    },
+    {
+      "id": "edab",
+      "title": "Project IV - Update",
+      "details": "Testando o CRUD Update",
+      "completed": true
     }
   ]
 }
